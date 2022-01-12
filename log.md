@@ -1,5 +1,10 @@
 # 100 Days of Code - Solidity - Log
 
+### Day 2: January 11, 2022
+**Today's Progress**: Cryptozombies Lesson 2 - Chapters 6-End;
+
+**Thoughts:** Chapter 7 was confusing and I still don't necessarily understand difference uses of structs, arrays, vs mappings. But rest of Chapter was actually really fun an seeing how to call external contracts for data is a useful thing. Still don't understand web3.js. Also, maybe I'm crazy but the syntax consistently changes on pointing to memory/storage vs. setting variables in function. May whip through Chapter 2 again tomorrow to fully understand.
+
 ### Day 1: January 10, 2022
 **Today's Progress**: Cryptozombies Lesson 2 - Chapters 1-5;
 
